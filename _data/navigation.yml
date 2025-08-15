@@ -12,7 +12,7 @@ main:
     url: /about/
     
   - title: "Resume"
-    url: /cv/
+    url: /resume/
     
   # - title: "CV"
   #   url: /cv-json/
@@ -23,8 +23,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #  url: /talks/    
 
   # - title: "Teaching"
   #  url: /teaching/    

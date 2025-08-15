@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Kai's Data Analytics Showroom"
+title                    : "Insight to Impact: Energy, ESG, Sustainability"
 title_separator          : "-"
 name                     : &name "Yu-Kai Huang"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Dr. Yu-Kai Huang"
+  avatar           : "Headshot-2019.jpg"
+  name             : "Dr. Yu-Kai (Kai) Huang"
   pronouns         : # example: "she/her"  
   bio              : "Quantitative Environmental Economist & Climate Risk Analyst"
   #location         : "Illinois / Georgia"
