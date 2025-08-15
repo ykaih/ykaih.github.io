@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yu-Kai Huang"
+  name             : "Dr. Yu-Kai Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Quantitative Environmental Economist & ESG Analytics Specialist"
-  location         : "Illinois / Georgia"
+  bio              : "Quantitative Environmental Economist & Climate Risk Analyst"
+  #location         : "Illinois / Georgia"
   #employer         : "Red Brick University"
   uri              : # URL
   email            : "yukai.ere@gmail.com" 
