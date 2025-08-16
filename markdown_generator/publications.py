@@ -71,9 +71,8 @@ for row, item in publications.iterrows():
     ## YAML variables
     
     md = "---\ntitle: \""   + item.title + '"\n'
-
-    # TODO Update to use the category assigned in the TSV file
-    md += """collection: manuscripts"""
+    
+    md += """collection: publications"""
     
     md += """\npermalink: /publication/""" + html_filename
     
@@ -84,6 +83,9 @@ for row, item in publications.iterrows():
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
+    if len(str(item.slides_url)) > 5:
+        md += "\nslidesurl: '" + item.slides_url + "'"
+
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
     
@@ -92,12 +94,15 @@ for row, item in publications.iterrows():
     md += "\n---"
     
     ## Markdown description for individual page
-    
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
+
+    if len(str(item.slides_url)) > 5:
+        md += "\n[Download slides here](" + item.slides_url + ")\n" 
+
+    if len(str(item.paper_url)) > 5:
+        md += "\n[Download paper here](" + item.paper_url + ")\n" 
         
     md += "\nRecommended citation: " + item.citation
     
@@ -105,5 +110,3 @@ for row, item in publications.iterrows():
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
-

@@ -85,7 +85,3 @@ Certification
 ======
 * GHG Protocol Scope 2, Greenhouse Gas Protocal, 2025
 * Graduate Certificate in Applied Statistics, Department of Statistics, Texas A&M University - College Station, 2020
-
-Publications
-======
-{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
