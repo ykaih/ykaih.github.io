@@ -9,9 +9,9 @@ redirect_from:
 
 I am an environmental economist and climate risk analyst with expertise in quantitative modeling, sustainable resource management, policy impact evaluation, and ESG analytics. My work bridges environmental and climate physical impacts with economics, transforming complex datasets into actionable strategies for climate resilience, sustainable agriculture, bioresource supply chain management, and natural resources optimization.
 
-With a Ph.D. in Environmental and Resource Economics and advanced skills in optimization modeling, econometrics, geospatial analytics, and choice experiment, I have applied rigorous methods to evaluate:
+With a Ph.D. in Environmental and Resource Economics and advanced skills in optimization modeling, econometrics, geospatial analytics, and choice experiment, I have applied these skills to evaluate:
 * Bioenergy and bioproduct supply chains, including techno-economic and life-cycle assessments
-* Environmental policy impacts on water quality, nutrient runoff, and greenhouse gas emissions
+* Environmental policy impacts on water quality, nutrient runoff, waste generation, and circular economy
 * Climate change risks to agricultural productivity and natural resources
 * Consumer behavior analysis for sustainable products
 
@@ -19,4 +19,4 @@ I have collaborated with research institutions, NGOs, international development 
 
 Beyond research, I am passionate about making environmental data accessible and actionable. I bring experience in Python, R, machine learning, and ESG reporting frameworks, and I specialize in tailoring analytics to meet the needs of sustainability-driven organizations, environmental consultancies, and impact-focused investors.
 
-![Testing image](/images/San-Blas.jpeg)
+<img src="/images/Core-competency.jpg" alt="Core-competency-venn" width="400" style="display:block; margin:auto;">

@@ -46,7 +46,7 @@ Selected work experience
   
 * **1/2019 - 3/2019: Lab Instructor**<br>
   *Department of Agricultural Economics, Texas A&M University, United States*
-  * Taught graduate students <font color="orange">optimization and mathematical programming</font>
+  * Taught graduate students optimization and mathematical programming
   * Rating for an effective instructor: 4.86/5
 	
 * **9/2015 - 1/2021: Research Assistant**<br>
