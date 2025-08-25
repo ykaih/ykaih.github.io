@@ -1,6 +1,6 @@
 ---
 title: "Effect of a water quality regulation on land use change"
-excerpt: "Implementation of total phosphorus (TP) loss reduction policy expedites the land use transition from croplands (particularly corn) to forestlands and decreases the agricultural profits, implying a potential trade between farm profits and water quality.<br/><img src='/images/AWM-2022-Figure10.jpeg'>"
+excerpt: "Implementation of total phosphorus (TP) loss reduction policy expedites the land use transition from croplands (particularly corn) to forestlands and decreases the agricultural profits, implying a potential trade between farm profits and water quality.<br/><img src='/images/AWM-2022-Figure10.jpeg'><br> **Applied skills:** Stochastic dynamic mathematical programming, chance constraint, land use optimization, SWAT model.<br> **Topic keywords:** Integrated hydrological and economic model, non-point source pollution, food-water-energy nexus.<br>"
 collection: portfolio
 ---
 Land use changes to meet the total phosphorus (TP) loss reduction target are assessed. Without the TP loss reduction target, most croplands are used for planting corn, cotton, and peanut since those are most profitable crops in the region. When the water quality target is imposed, the share of the hardwood land increases as hardwood has the lowest TP concentration among all crops. The figures also show the uncertainty in TP leaching induces dominant land use transition from croplands to forestlands. (<a href="http://ykaih.github.io/files/2022-Agricultural-Water-Management.pdf">Download Paper</a>)
