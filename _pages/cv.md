@@ -19,6 +19,7 @@ Selected work experience
 ======
 * **8/2022 - present: Postdoctoral Research Associate**<br>
   *Institute for Sustainability, Energy, and Environment, University of Illinois Urbana-Champaign, United States*
+  * Develop an integrated biophysical and economic model to evaluate theimpact of bioenergy development on land use and water quality
   * Compare environmental impacts of bio-based vs. fossil fuels
   * Assess land-use change and water quality impact for a bioenergy supply chain
 
@@ -37,7 +38,7 @@ Selected work experience
 * **1/2020 - 6/2020: Quantitative Risk Research Intern**<br>
   *Southeast Asia Department, Asian Development Bank, Philippines*
   * Employed econometric models to translate the climate physical impact on fisheries and mangrove forests to economic losses in Southeast Asia
-  * Used non-marke valuation data to estimate the economic losses of leaking plastic waste to the ocean in Southeast Asia
+  * Used non-market valuation data to estimate the economic losses of leaking plastic waste to the ocean in Southeast Asia
   
 * **9/2019 - 12/2019, 9/2020 - 12/2020: Instructor**<br>
   *Department of Agricultural Economics, Texas A&M University, United States*
