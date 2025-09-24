@@ -23,7 +23,7 @@ Selected work experience
   * Compare environmental impacts of bio-based vs. fossil fuels
   * Assess land-use change and water quality impact for a bioenergy supply chain
 
-* **8/2021 - 5/2022: Resource Economist (Consultant)**<br>
+* **8/2021 - 12/2021: Resource Economist (Consultant)**<br>
   *Sustainable Development and Climate Change Division, Asian Development Bank, Philippines*
   * Developed a decision tool to visualize economic and environmental impacts of waste-to-energy infrastructure interventions
   * Designed a dashboard to illustrate economic and environmental impacts of waste-to-energy under different circular economny scenarios
