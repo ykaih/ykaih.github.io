@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Insight to Impact: Energy, ESG, Sustainability"
+title                    : "Insight to Impact: Resources, Economy, Sustainability"
 title_separator          : "-"
 name                     : &name "Yu-Kai Huang"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "Headshot-2019.jpg"
   name             : "Dr. Yu-Kai (Kai) Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Quantitative Environmental Economist & Climate Risk Analyst"
+  bio              : "Environmental Economist | Hydroinformatics Specialist |   Climate Risk Analyst"
   #location         : "Illinois / Georgia"
   #employer         : "Red Brick University"
   uri              : # URL

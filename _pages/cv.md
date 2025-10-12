@@ -84,5 +84,8 @@ Skills
 
 Certification
 ======
-* GHG Protocol Scope 2, Greenhouse Gas Protocal, 2025
 * Graduate Certificate in Applied Statistics, Department of Statistics, Texas A&M University - College Station, 2020
+* Structured Query Language (SQL) Essential Training Certificate, LinkedIn, 2020
+* General Algebraic Modeling System (GAMS) Certificate, GAMS Corporation, 2021
+
+[//]: # (* GHG Protocol Scope 2, Greenhouse Gas Protocal, 2025)
