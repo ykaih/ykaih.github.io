@@ -15,6 +15,6 @@ With a Ph.D. in Environmental and Resource Economics and advanced skills in opti
 * Climate change risks to agricultural productivity and natural resources
 * Consumer behavior analysis for sustainable products
 
-Beyond academic research, I have collaborated with international development banks, NGOs, and industry partners to provide data-driven solutions that guide policy, investment, and operational decisions. My consulting projects have spanned circular economy,  economic impact of extreme weather, and climate risk assessment. I bring technical experience in econometrics, machine learning, geospatial analytics, and mathmatical programming (operation research), and I specialize in tailoring analytics to meet the needs of sustainability-driven organizations, environmental consultancies, and impact-focused stakeholders.
+Beyond academic research, I also work with international development banks, NGOs, and industry partners to provide data-driven solutions that guide policy, investment, and operational decisions. My consulting projects have spanned circular economy,  economic impact of extreme weather, and climate risk assessment. I bring technical experience in econometrics, machine learning, geospatial analytics, and mathmatical programming (operation research), and I specialize in tailoring analytics to meet the needs of sustainability-driven organizations, environmental consultancies, and impact-focused stakeholders.
 
 <img src="/images/Core-competency.jpg" alt="Core-competency-venn" width="400" style="display:block; margin:auto;">
